@@ -11,10 +11,10 @@ Hate speech recognition is a critical task for maintaining healthy online commun
 ## Quick Start
 
 
-## Datasets
+## Data
 
-### Datasets Information
-
+### Dataset
+Large datasets (used in performance evaluation) can be downloaded from https://drive.google.com/drive/folders/1-7rT1GF8gT6ZlZI9k5hXINArWqTjDhXC?usp=sharing and placed into the `dataset` folder. 
 
 ### Datasets Visualization
 
