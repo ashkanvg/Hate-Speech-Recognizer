@@ -1,4 +1,4 @@
-# Centralized and Federated Bert-Based Hate-Speech Recognition
+# Centralized and Federated Hate-Speech Recognition (Classical ML and TinyBert)
 
 ## Abstract
 _Content warning: This paper contains unfiltered content reported by Hate Speech Datasets that may be offensive to readers._
