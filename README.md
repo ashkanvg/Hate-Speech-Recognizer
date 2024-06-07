@@ -9,6 +9,7 @@ Hate speech recognition is a critical task for maintaining healthy online commun
 
     .
     ├── Documentation                  # Project Draft and Images
+    ├── datasets                       # we only put davidson datasets and for more datasets follow the documentation (readme.md)
     ├── Centralized                    # All of the Centralized Methods Implementation
     │   ├── with_upsampled             # with data-augmentation
     │   │   ├── Davidson               # Centralized implementations on Davidson Dataset    
