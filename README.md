@@ -67,3 +67,8 @@ In the end, we show that our Federated TinyBert and Federated NN perform almost 
 | Centralized TinyBert  | N/A |    93.31% | 
 | Federated NN   | FedProx |    90.35% | 
 | Federated TinyBert   | FedAVG |    90.80% | 
+
+
+## LICENSE
+
+MIT
